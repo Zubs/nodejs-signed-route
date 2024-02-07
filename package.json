@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-signed-route",
+  "version": "1.0.0",
+  "description": "Code for my article on signing URLs using Node.js",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node --watch src/index.js"
+  },
+  "keywords": [],
+  "author": "Zubs <zubairidrisaweda@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
